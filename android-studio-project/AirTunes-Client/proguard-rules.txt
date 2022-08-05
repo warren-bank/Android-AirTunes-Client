@@ -1,0 +1,2 @@
+-keepattributes InnerClasses
+-keep class com.github.warren_bank.airtunes_client.** { *; }
